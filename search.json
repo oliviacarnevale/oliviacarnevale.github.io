@@ -11,14 +11,14 @@
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "This is my first post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is the first post in my Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "posts/what-school-is-wru/index.html",
@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Latest posts",
     "section": "",
-    "text": "Who is the Modern WRU?\n\n\n\n\n\n\n\nfootball\n\n\nwru\n\n\n\n\n\n\n\n\n\n\n\nMay 7, 2023\n\n\nOlivia Carnevale\n\n\n\n\n\n\n  \n\n\n\n\nC.J. Stroud, Should-Have-Been Heisman Winner?\n\n\n\n\n\n\n\nbuckeyes\n\n\nfootball\n\n\nheisman\n\n\n\n\n\n\n\n\n\n\n\nApr 16, 2023\n\n\nOlivia Carnevale\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 20, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 17, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Who is the Modern WRU?\n\n\n\n\n\n\n\nfootball\n\n\nwru\n\n\n\n\n\n\n\n\n\n\n\nMay 7, 2023\n\n\nOlivia Carnevale\n\n\n\n\n\n\n  \n\n\n\n\nC.J. Stroud, Should-Have-Been Heisman Winner?\n\n\n\n\n\n\n\nbuckeyes\n\n\nfootball\n\n\nheisman\n\n\n\n\n\n\n\n\n\n\n\nApr 16, 2023\n\n\nOlivia Carnevale\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 20, 2023\n\n\nOlivia Carnevale\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 17, 2023\n\n\nOlivia Carnevale\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
